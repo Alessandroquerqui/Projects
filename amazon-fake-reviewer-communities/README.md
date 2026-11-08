@@ -32,7 +32,7 @@ Starting from the edges with perfect correlation, we isolated a **clique of 4 us
 ## Files
 
 - [Google Colab Notebook](script_Amazon_Reviewers.ipynb)
-- [Project Presentation](Amazon Review Network_Analysis.pdf)
+- [Project Presentation](Amazon_Review_Network_Analysis.pdf)
 
 ## Tools
 
