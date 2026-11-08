@@ -32,8 +32,9 @@ XGBoost and the CNN have almost the same accuracy. The CNN reaches the best F1 t
 
 ## Files
 
-- `[notebook_name].ipynb` – full notebook (Google Colab)
-- `[report_name].pdf` – project report
+- [Google Colab Notebook]()
+- [Project Presentation](presentation.pdf)
+- [Project Report](report.pdf)
 
 ## Tools
 
