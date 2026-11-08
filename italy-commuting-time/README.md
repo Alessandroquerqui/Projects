@@ -29,8 +29,8 @@ Two ISTAT datasets:
 
 ## Files
 
-- `[notebook_name].ipynb` – full analysis (Google Colab)
-- `[slides_name].pdf` – presentation
+- [Google Colab Notebook](progetto_BDOS.ipynb)
+- [Project Presentation](Commuting%20Time%20and%20Transportation%20Modes%20in%20Italy.pdf)
 
 ## Tools
 
