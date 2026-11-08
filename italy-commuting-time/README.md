@@ -7,8 +7,8 @@
 ## Data
 
 Two ISTAT datasets:
-- *Spostamenti per andare a lavoro* – commuting time and means of transport by region and type of municipality, 2001–2024 (2004 missing) – [link](INSERT_ISTAT_LINK_1)
-- *Reddito disponibile delle famiglie nelle regioni italiane* – household disposable income by region, up to 2023 – [link](INSERT_ISTAT_LINK_2)
+- *Spostamenti per andare a lavoro - regioni e tipo di comune* – commuting time and means of transport by region and type of municipality, 2001–2024 (2004 missing) – [link](https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0700SER,1.0/USUAL_WAY_SC_WR/USUAL_WAY_WR/IT1,83_63_DF_DCCV_AVQ_PERSONE_170,1.0)
+- *Reddito disponibile delle famiglie nelle regioni italiane* – household disposable income by region, up to 2023 – [link](https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,DATAWAREHOUSE,1.0/UP_ACC_TERRIT/IT1,93_1095_DF_DCCN_ISTITUZ_TNA1_1,1.0)
 
 ## Approach
 
