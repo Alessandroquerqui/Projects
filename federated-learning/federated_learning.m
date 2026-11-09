@@ -1,5 +1,4 @@
 %% Federated Learning Simulation: IID vs Non-IID Data (+ FedProx mitigation)
-% Signal Processing for Machine Learning - Exam Project
 %
 % Storyline:
 %   1) FedAvg converges well when client data is IID.
@@ -30,9 +29,6 @@ clear; clc; close all;
 rng(1);  % reproducibility
 
 %% ------------------ 1. LOAD DATA ------------------
-% Tries, in order: (1) Deep Learning Toolbox's built-in Digit Dataset,
-% (2) local MNIST CSV files (run download_mnist_csv.m once to get them),
-% (3) synthetic toy dataset as last-resort fallback.
 digitDatasetPath = fullfile(matlabroot,'toolbox','nnet','nndemos', ...
     'nndatasets','DigitDataset');
 
