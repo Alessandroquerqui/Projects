@@ -32,8 +32,8 @@ The value of this project is less in the final accuracy than in the end-to-end p
 
 ## Files
 
-- [`project_script.ipynb`](project_script.ipynb) – full analysis (Google Colab)
-- [`report.pdf`](report.pdf) – detailed project report
+- [Google Colab Notebook](project_script.ipynb) 
+- [Project Report](report_english.pdf)
 
 ## Tools
 
