@@ -48,8 +48,8 @@ Honest about scope: single seed (no averaging across runs), a single Dirichlet �
 
 ## Files
 
-- [`federated_learning.m`](federated_learning.m) – full MATLAB script (data loading, partitioning, FedAvg/FedProx, plots)
-- [`Federated_Learning_Presentation.pdf`](Federated_Learning_Presentation.pdf) – project presentation with all figures
+- [MATLAB script](federated_learning.m)
+- [Project Presentation](Federated_Learning_Presentation.pdf)
 
 ## Tools
 
